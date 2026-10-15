@@ -25,4 +25,4 @@ Szemináriumi feladat: Róbert Gida · Házi feladat: Aladin, Suszter Samu 7. po
 
 ## Anyagok
 
-- *Feltöltés folyamatban.*
+- [Előadás (pdf)](../anyagok/het-05/eloadas.pdf)

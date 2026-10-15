@@ -25,4 +25,5 @@ Szemináriumi feladat: Suszter Samu · Házi feladat: Számteki (kid.), Mekk Ele
 
 ## Anyagok
 
-- *Feltöltés folyamatban.*
+- [Előadás (pdf)](../anyagok/het-04/eloadas.pdf)
+- [Szeminárium – kidolgozott feladat (Suszter Samu)](../anyagok/het-04/szeminarium-kidolgozott.pdf)
