@@ -6,7 +6,7 @@ title: "Számvitel alapjai – 2. hét – Megoldás"
 
 ## Anyagok
 
-![[számvitel-alapjai/2.-hét/megoldás/megoldas-anyag.pdf]]
+<iframe src="számvitel-alapjai/2.-hét/megoldás/megoldas-anyag.pdf#zoom=page-fit" class="pdf"></iframe>
 
 [[számvitel-alapjai/2.-hét/megoldás/megoldas-anyag.pdf|megoldas-anyag.pdf (PDF, letöltés)]]
 

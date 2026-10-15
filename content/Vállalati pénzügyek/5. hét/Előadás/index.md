@@ -8,7 +8,7 @@ title: "Vállalati pénzügyek – 5. hét – Előadás"
 
 ## Anyagok
 
-![[vállalati-pénzügyek/5.-hét/előadás/eloadas-anyag.pdf]]
+<iframe src="vállalati-pénzügyek/5.-hét/előadás/eloadas-anyag.pdf#zoom=page-fit" class="pdf"></iframe>
 
 [[vállalati-pénzügyek/5.-hét/előadás/eloadas-anyag.pdf|eloadas-anyag.pdf (PDF, letöltés)]]
 

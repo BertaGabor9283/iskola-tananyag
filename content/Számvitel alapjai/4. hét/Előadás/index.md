@@ -8,7 +8,7 @@ title: "Számvitel alapjai – 4. hét – Előadás"
 
 ## Anyagok
 
-![[számvitel-alapjai/4.-hét/előadás/eloadas-anyag.pdf]]
+<iframe src="számvitel-alapjai/4.-hét/előadás/eloadas-anyag.pdf#zoom=page-fit" class="pdf"></iframe>
 
 [[számvitel-alapjai/4.-hét/előadás/eloadas-anyag.pdf|eloadas-anyag.pdf (PDF, letöltés)]]
 

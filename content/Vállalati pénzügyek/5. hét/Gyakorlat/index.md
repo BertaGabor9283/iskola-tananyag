@@ -8,7 +8,7 @@ Részvények árazása esettanulmány
 
 ## Anyagok
 
-![[vállalati-pénzügyek/5.-hét/gyakorlat/gyakorlat-anyag.pdf]]
+<iframe src="vállalati-pénzügyek/5.-hét/gyakorlat/gyakorlat-anyag.pdf#zoom=page-fit" class="pdf"></iframe>
 
 [[vállalati-pénzügyek/5.-hét/gyakorlat/gyakorlat-anyag.pdf|gyakorlat-anyag.pdf (PDF, letöltés)]]
 

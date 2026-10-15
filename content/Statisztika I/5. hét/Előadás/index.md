@@ -8,7 +8,7 @@ title: "Statisztika I – 5. hét – Előadás"
 
 ## Anyagok
 
-![[statisztika-i/5.-hét/előadás/eloadas-anyag.pdf]]
+<iframe src="statisztika-i/5.-hét/előadás/eloadas-anyag.pdf#zoom=page-fit" class="pdf"></iframe>
 
 [[statisztika-i/5.-hét/előadás/eloadas-anyag.pdf|eloadas-anyag.pdf (PDF, letöltés)]]
 

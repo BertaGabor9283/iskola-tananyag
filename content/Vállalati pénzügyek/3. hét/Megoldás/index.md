@@ -6,7 +6,7 @@ title: "Vállalati pénzügyek – 3. hét – Megoldás"
 
 ## Anyagok
 
-![[vállalati-pénzügyek/3.-hét/megoldás/megoldas-anyag.pdf]]
+<iframe src="vállalati-pénzügyek/3.-hét/megoldás/megoldas-anyag.pdf#zoom=page-fit" class="pdf"></iframe>
 
 [[vállalati-pénzügyek/3.-hét/megoldás/megoldas-anyag.pdf|megoldas-anyag.pdf (PDF, letöltés)]]
 

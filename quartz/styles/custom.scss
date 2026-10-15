@@ -1,3 +1,12 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// PDF beágyazás: a keret a nézet magasságát kitölti, a PDF pedig a lap szélességéhez/magasságához igazodik
+iframe.pdf {
+  aspect-ratio: auto;
+  width: 100%;
+  height: 88vh;
+  min-height: 600px;
+  border: 0;
+}

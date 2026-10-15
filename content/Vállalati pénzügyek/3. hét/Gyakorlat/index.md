@@ -8,7 +8,7 @@ title: "Vállalati pénzügyek – 3. hét – Gyakorlat"
 
 ## Anyagok
 
-![[vállalati-pénzügyek/3.-hét/gyakorlat/gyakorlat-anyag.pdf]]
+<iframe src="vállalati-pénzügyek/3.-hét/gyakorlat/gyakorlat-anyag.pdf#zoom=page-fit" class="pdf"></iframe>
 
 [[vállalati-pénzügyek/3.-hét/gyakorlat/gyakorlat-anyag.pdf|gyakorlat-anyag.pdf (PDF, letöltés)]]
 
