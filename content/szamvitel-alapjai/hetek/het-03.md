@@ -25,5 +25,5 @@ Szemináriumi feladat: Dinnyért · Házi feladat: Fizetés és számlázós, Er
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-03/eloadas.pdf)
-- [Szeminárium – részleges kidolgozás (E–H)](../anyagok/het-03/szeminarium-kidolgozott.pdf)
+- [Előadás (pdf)](../anyagok/het-03/eloadas.pdf) · [szöveges változat](../anyagok/het-03/eloadas.md)
+- [Szeminárium – részleges kidolgozás (E–H)](../anyagok/het-03/szeminarium-kidolgozott.pdf) · [szöveges változat](../anyagok/het-03/szeminarium-kidolgozott.md)

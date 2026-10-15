@@ -25,6 +25,6 @@ Részvények árazása
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-04/eloadas.pdf)
-- [Szeminárium feladatok – megoldások nélkül](../anyagok/het-04/szeminarium-megoldas-nelkul.pdf)
-- [Szeminárium feladatok – kézzel írt megoldással](../anyagok/het-04/szeminarium-megoldas-kezzel.pdf)
+- [Előadás (pdf)](../anyagok/het-04/eloadas.pdf) · [szöveges változat](../anyagok/het-04/eloadas.md)
+- [Szeminárium feladatok – megoldások nélkül](../anyagok/het-04/szeminarium-megoldas-nelkul.pdf) · [szöveges változat](../anyagok/het-04/szeminarium-megoldas-nelkul.md)
+- [Szeminárium feladatok – kézzel írt megoldással](../anyagok/het-04/szeminarium-megoldas-kezzel.pdf) · [szöveges változat](../anyagok/het-04/szeminarium-megoldas-kezzel.md)

@@ -25,5 +25,5 @@ Részvények árazása esettanulmány
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-05/eloadas.pdf)
-- [Szeminárium feladat](../anyagok/het-05/szeminarium-feladat.pdf)
+- [Előadás (pdf)](../anyagok/het-05/eloadas.pdf) · [szöveges változat](../anyagok/het-05/eloadas.md)
+- [Szeminárium feladat](../anyagok/het-05/szeminarium-feladat.pdf) · [szöveges változat](../anyagok/het-05/szeminarium-feladat.md)

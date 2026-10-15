@@ -25,5 +25,5 @@ Szemináriumi feladat: Fitt Ferenc, Könyvmoly, Tejes Tibor, Baby Blanka · Ház
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-01/eloadas.pdf)
-- [Szeminárium – kidolgozott feladat (Mosó Masa)](../anyagok/het-01/szeminarium-kidolgozott.pdf)
+- [Előadás (pdf)](../anyagok/het-01/eloadas.pdf) · [szöveges változat](../anyagok/het-01/eloadas.md)
+- [Szeminárium – kidolgozott feladat (Mosó Masa)](../anyagok/het-01/szeminarium-kidolgozott.pdf) · [szöveges változat](../anyagok/het-01/szeminarium-kidolgozott.md)
