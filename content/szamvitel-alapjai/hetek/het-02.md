@@ -25,5 +25,5 @@ Szemináriumi feladat: Zsákos Frodó, Szörnyella (elkezdeni) · Házi feladat:
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-02/eloadas.pdf) · [szöveges változat](../anyagok/het-02/eloadas.md)
-- [Szeminárium – kidolgozott feladat (Zsákos Frodó)](../anyagok/het-02/szeminarium-kidolgozott.pdf) · [szöveges változat](../anyagok/het-02/szeminarium-kidolgozott.md)
+- [[szamvitel-alapjai/anyagok/het-02/eloadas.pdf|Előadás (pdf)]] · [[szamvitel-alapjai/anyagok/het-02/eloadas|szöveges változat]]
+- [[szamvitel-alapjai/anyagok/het-02/szeminarium-kidolgozott.pdf|Szeminárium – kidolgozott feladat (Zsákos Frodó)]] · [[szamvitel-alapjai/anyagok/het-02/szeminarium-kidolgozott|szöveges változat]]

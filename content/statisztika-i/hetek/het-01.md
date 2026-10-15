@@ -24,6 +24,6 @@ tags:
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-01/eloadas.pdf) · [szöveges változat](../anyagok/het-01/eloadas.md)
-- [Gyakorlati feladat (xlsx)](../anyagok/het-01/gyakorlat-feladat.xlsx)
-- [Gyakorlati megoldás (xlsx)](../anyagok/het-01/gyakorlat-megoldas.xlsx)
+- [[statisztika-i/anyagok/het-01/eloadas.pdf|Előadás (pdf)]] · [[statisztika-i/anyagok/het-01/eloadas|szöveges változat]]
+- [[statisztika-i/anyagok/het-01/gyakorlat-feladat.xlsx|Gyakorlati feladat (xlsx)]]
+- [[statisztika-i/anyagok/het-01/gyakorlat-megoldas.xlsx|Gyakorlati megoldás (xlsx)]]

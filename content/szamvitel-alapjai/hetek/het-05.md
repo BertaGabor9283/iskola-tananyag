@@ -25,4 +25,4 @@ Szemináriumi feladat: Róbert Gida · Házi feladat: Aladin, Suszter Samu 7. po
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-05/eloadas.pdf) · [szöveges változat](../anyagok/het-05/eloadas.md)
+- [[szamvitel-alapjai/anyagok/het-05/eloadas.pdf|Előadás (pdf)]] · [[szamvitel-alapjai/anyagok/het-05/eloadas|szöveges változat]]

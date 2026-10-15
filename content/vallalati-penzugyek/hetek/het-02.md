@@ -25,6 +25,6 @@ Járadékszámítás, NPV és egyéb befektetési kritériumok
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-02/eloadas.pdf) · [szöveges változat](../anyagok/het-02/eloadas.md)
-- [Szeminárium feladatok](../anyagok/het-02/szeminarium-feladatok.pdf) · [szöveges változat](../anyagok/het-02/szeminarium-feladatok.md)
-- [Szeminárium feladatok – kézzel írt megoldással](../anyagok/het-02/szeminarium-megoldas-kezzel.pdf) · [szöveges változat](../anyagok/het-02/szeminarium-megoldas-kezzel.md)
+- [[vallalati-penzugyek/anyagok/het-02/eloadas.pdf|Előadás (pdf)]] · [[vallalati-penzugyek/anyagok/het-02/eloadas|szöveges változat]]
+- [[vallalati-penzugyek/anyagok/het-02/szeminarium-feladatok.pdf|Szeminárium feladatok]] · [[vallalati-penzugyek/anyagok/het-02/szeminarium-feladatok|szöveges változat]]
+- [[vallalati-penzugyek/anyagok/het-02/szeminarium-megoldas-kezzel.pdf|Szeminárium feladatok – kézzel írt megoldással]] · [[vallalati-penzugyek/anyagok/het-02/szeminarium-megoldas-kezzel|szöveges változat]]

@@ -25,5 +25,5 @@ Szemináriumi feladat: Suszter Samu · Házi feladat: Számteki (kid.), Mekk Ele
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-04/eloadas.pdf) · [szöveges változat](../anyagok/het-04/eloadas.md)
-- [Szeminárium – kidolgozott feladat (Suszter Samu)](../anyagok/het-04/szeminarium-kidolgozott.pdf) · [szöveges változat](../anyagok/het-04/szeminarium-kidolgozott.md)
+- [[szamvitel-alapjai/anyagok/het-04/eloadas.pdf|Előadás (pdf)]] · [[szamvitel-alapjai/anyagok/het-04/eloadas|szöveges változat]]
+- [[szamvitel-alapjai/anyagok/het-04/szeminarium-kidolgozott.pdf|Szeminárium – kidolgozott feladat (Suszter Samu)]] · [[szamvitel-alapjai/anyagok/het-04/szeminarium-kidolgozott|szöveges változat]]

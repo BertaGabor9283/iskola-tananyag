@@ -25,6 +25,6 @@ Részvények árazása
 
 ## Anyagok
 
-- [Előadás (pdf)](../anyagok/het-04/eloadas.pdf) · [szöveges változat](../anyagok/het-04/eloadas.md)
-- [Szeminárium feladatok – megoldások nélkül](../anyagok/het-04/szeminarium-megoldas-nelkul.pdf) · [szöveges változat](../anyagok/het-04/szeminarium-megoldas-nelkul.md)
-- [Szeminárium feladatok – kézzel írt megoldással](../anyagok/het-04/szeminarium-megoldas-kezzel.pdf) · [szöveges változat](../anyagok/het-04/szeminarium-megoldas-kezzel.md)
+- [[vallalati-penzugyek/anyagok/het-04/eloadas.pdf|Előadás (pdf)]] · [[vallalati-penzugyek/anyagok/het-04/eloadas|szöveges változat]]
+- [[vallalati-penzugyek/anyagok/het-04/szeminarium-megoldas-nelkul.pdf|Szeminárium feladatok – megoldások nélkül]] · [[vallalati-penzugyek/anyagok/het-04/szeminarium-megoldas-nelkul|szöveges változat]]
+- [[vallalati-penzugyek/anyagok/het-04/szeminarium-megoldas-kezzel.pdf|Szeminárium feladatok – kézzel írt megoldással]] · [[vallalati-penzugyek/anyagok/het-04/szeminarium-megoldas-kezzel|szöveges változat]]
