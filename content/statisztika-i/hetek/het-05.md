@@ -24,4 +24,6 @@ tags:
 
 ## Anyagok
 
-- *Feltöltés folyamatban.*
+- [Előadás (pdf)](../anyagok/het-05/eloadas.pdf) · [szöveges változat](../anyagok/het-05/eloadas.md)
+- [Gyakorlati feladat (xlsx)](../anyagok/het-05/gyakorlat-feladat.xlsx)
+- [Gyakorlati megoldás (xlsx)](../anyagok/het-05/gyakorlat-megoldas.xlsx)
