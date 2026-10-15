@@ -25,4 +25,5 @@ Részvények árazása esettanulmány
 
 ## Anyagok
 
-- *Feltöltés folyamatban.*
+- [Előadás (pdf)](../anyagok/het-05/eloadas.pdf)
+- [Szeminárium feladat](../anyagok/het-05/szeminarium-feladat.pdf)

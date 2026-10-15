@@ -25,4 +25,6 @@ Részvények árazása
 
 ## Anyagok
 
-- *Feltöltés folyamatban.*
+- [Előadás (pdf)](../anyagok/het-04/eloadas.pdf)
+- [Szeminárium feladatok – megoldások nélkül](../anyagok/het-04/szeminarium-megoldas-nelkul.pdf)
+- [Szeminárium feladatok – kézzel írt megoldással](../anyagok/het-04/szeminarium-megoldas-kezzel.pdf)

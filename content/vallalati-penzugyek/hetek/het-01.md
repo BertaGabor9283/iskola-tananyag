@@ -25,4 +25,6 @@ Bevezetés a vállalati pénzügyekbe, jelenérték és jövőértékszámítás
 
 ## Anyagok
 
-- *Feltöltés folyamatban.*
+- [Előadás (pdf)](../anyagok/het-01/eloadas.pdf)
+- [Szeminárium feladatok – megoldások nélkül](../anyagok/het-01/szeminarium-megoldas-nelkul.pdf)
+- [Szeminárium feladatok – kézzel írt megoldással](../anyagok/het-01/szeminarium-megoldas-kezzel.pdf)

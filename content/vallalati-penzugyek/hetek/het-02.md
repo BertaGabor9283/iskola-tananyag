@@ -25,4 +25,6 @@ Járadékszámítás, NPV és egyéb befektetési kritériumok
 
 ## Anyagok
 
-- *Feltöltés folyamatban.*
+- [Előadás (pdf)](../anyagok/het-02/eloadas.pdf)
+- [Szeminárium feladatok](../anyagok/het-02/szeminarium-feladatok.pdf)
+- [Szeminárium feladatok – kézzel írt megoldással](../anyagok/het-02/szeminarium-megoldas-kezzel.pdf)

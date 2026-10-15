@@ -25,4 +25,6 @@ Kötvények árazása
 
 ## Anyagok
 
-- *Feltöltés folyamatban.*
+- [Előadás (pdf)](../anyagok/het-03/eloadas.pdf)
+- [Szeminárium feladatok – megoldások nélkül](../anyagok/het-03/szeminarium-megoldas-nelkul.pdf)
+- [Szeminárium feladatok – kézzel írt megoldással](../anyagok/het-03/szeminarium-megoldas-kezzel.pdf)
